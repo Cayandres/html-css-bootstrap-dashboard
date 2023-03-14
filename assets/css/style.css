@@ -1,0 +1,10 @@
+.debug{
+  background-color: rgba(0, 0, 255, 0.385);
+  border: 1px solid black;
+  min-height: 40px;
+}
+
+.ac-nav a .mobile{
+  width: 50px;
+
+}
